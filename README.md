@@ -415,17 +415,10 @@ A documentação interativa está disponível em:
 
 ## 👥 Integrantes do Grupo
 
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3] (se houver)
-
+- Eduardo Osorio Filho - RM550161
+- Fabio Hideki Kamikihara - RM550610
 ---
 
-## 🎥 Vídeo Demonstrativo
-
-[Link do vídeo no YouTube ou plataforma equivalente - máximo 5 minutos]
-
----
 
 ## 📄 Licença
 
@@ -465,12 +458,4 @@ dotnet watch run
 ```
 
 ---
-
-## 📞 Suporte
-
-Para dúvidas ou problemas, entre em contato através do repositório GitHub.
-
----
-
-**Desenvolvido com ❤️ para o futuro do trabalho**
 
